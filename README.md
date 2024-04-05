@@ -24,4 +24,4 @@ Seaborn
 ## Usage
 Clone the repository.
 Install dependencies with pip install -r requirements.txt.
-Open stock_analysis.ipynb in Jupyter Notebook to explore and replicate the analysis.
+Open Stock_Analysis_Mayank_Gupta.ipynb in Jupyter Notebook to explore and replicate the analysis.
